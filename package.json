@@ -1,0 +1,13 @@
+{
+    "name": "@satinxs/router",
+    "version": "0.0.1",
+    "description": "A generic, trie based hash router for the browser",
+    "main": "router.ts",
+    "keywords": [
+        "Trie",
+        "Router",
+        "Browser"
+    ],
+    "author": "satinxs",
+    "license": "MIT"
+}
